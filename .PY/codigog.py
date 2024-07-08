@@ -54,13 +54,13 @@ while True :
     print(selectCase02(validade))
 
 
-vari = input ("digite o codigo")
+# vari = input ("digite o codigo")
 
 
-    for i in vari
+#     for i in vari
 
 
-        if vari =
+#         if vari =
 
 
 
@@ -73,41 +73,41 @@ vari = input ("digite o codigo")
 
     
 
-"""
-    gui = input("digite S para novo COD ou N para sair")
+
+#     gui = input("digite S para novo COD ou N para sair")
 
        
 
 
-    if gui.upper() == 'S' :
-        print('')
-    else:
+#     if gui.upper() == 'S' :
+#         print('')
+#     else:
 
-        break
+#         break
 
-"""
-if int_COD == "AL":return "Nordeste"
-elif int_COD == "AP":return "Norte"
-elif int_COD == "AM":return "Norte"
-elif int_COD == "BA":return "Nordeste"
-elif int_COD == "CE":return "Nordeste"
-elif int_COD == "DF":return "Centro-Oeste"
-elif int_COD == "ES":return "Sudeste"
-elif int_COD == "GO":return "Centro-Oeste"
-elif int_COD == "MA":return "Nordeste"
-elif int_COD == "MT":return "Centro-Oeste"
-elif int_COD == "MS":return "Centro-Oeste"
-elif int_COD == "MG":return "Sudeste"
-elif int_COD == "PA":return "Norte"
-elif int_COD == "PB":return "Nordeste"
-elif int_COD == "PR":return "Sul"
-elif int_COD == "PE":return "Nordeste"
-elif int_COD == "PI":return "Nordeste"
-elif int_COD == "RJ":return "Sudeste"
-elif int_COD == "RN":return "Nordeste"
-elif int_COD == "RS":return "Sul"
-elif int_COD == "RO":return "Norte"
-elif int_COD == "RR":return "Norte"
-elif int_COD == "SC":return "Sul"
-elif int_COD == "SP":return "Sudeste"
-elif int_COD == "SE":return "Nordeste"
+# """
+# if int_COD == "AL":return "Nordeste"
+# elif int_COD == "AP":return "Norte"
+# elif int_COD == "AM":return "Norte"
+# elif int_COD == "BA":return "Nordeste"
+# elif int_COD == "CE":return "Nordeste"
+# elif int_COD == "DF":return "Centro-Oeste"
+# elif int_COD == "ES":return "Sudeste"
+# elif int_COD == "GO":return "Centro-Oeste"
+# elif int_COD == "MA":return "Nordeste"
+# elif int_COD == "MT":return "Centro-Oeste"
+# elif int_COD == "MS":return "Centro-Oeste"
+# elif int_COD == "MG":return "Sudeste"
+# elif int_COD == "PA":return "Norte"
+# elif int_COD == "PB":return "Nordeste"
+# elif int_COD == "PR":return "Sul"
+# elif int_COD == "PE":return "Nordeste"
+# elif int_COD == "PI":return "Nordeste"
+# elif int_COD == "RJ":return "Sudeste"
+# elif int_COD == "RN":return "Nordeste"
+# elif int_COD == "RS":return "Sul"
+# elif int_COD == "RO":return "Norte"
+# elif int_COD == "RR":return "Norte"
+# elif int_COD == "SC":return "Sul"
+# elif int_COD == "SP":return "Sudeste"
+# elif int_COD == "SE":return "Nordeste"

@@ -31,7 +31,7 @@ pyautogui.press("tab") # passando pro próximo campo
 pyautogui.write("sua senha")
 pyautogui.click(x=696, y=566) # clique no botao de login
 time.sleep(5)
-
+""""
 # Passo 3: Importar a base de produtos pra cadastrar
 import pandas as pd
 
@@ -68,3 +68,4 @@ for linha in tabela.index:
     # dar scroll de tudo pra cima
     pyautogui.scroll(5000)
     # Passo 5: Repetir o processo de cadastro até o fim
+"""
